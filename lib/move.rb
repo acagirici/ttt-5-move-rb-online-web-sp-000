@@ -8,3 +8,5 @@ end
 
 def input_to_index(user)
   new_user = user.to_i
+  new_user -= 1 
+  
