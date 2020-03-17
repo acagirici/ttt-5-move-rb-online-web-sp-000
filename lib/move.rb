@@ -11,3 +11,5 @@ def input_to_index(user)
   new_user -= 1 
   return new_user
 end
+
+def move(board, )
